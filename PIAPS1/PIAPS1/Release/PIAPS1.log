@@ -1,0 +1,32 @@
+﻿  PIAPS1.cpp
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(9,19): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(9,19): error C2433: AbstractFactory::Driver: "virtual" не разрешается для объявлений данных
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(9,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(9,39): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(10,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(10,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(10,34): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(12,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(12,24): error C2433: AbstractFactory::BoardAnyCar: "virtual" не разрешается для объявлений данных
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(12,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(12,43): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(32,1): error C2504: Infantryman: не определен базовый класс
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(58,1): error C2504: Infantryman: не определен базовый класс
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(86,24): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(86,24): error C2433: ArmyFactory::Infantryman: "virtual" не разрешается для объявлений данных
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(86,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(86,49): error C2238: непредвиденные лексемы перед ";"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(97,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(97,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(97,38): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(113,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(113,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(113,38): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(141,12): error C2065: Infantryman: необъявленный идентификатор
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(141,24): error C2059: синтаксическая ошибка: >
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(132,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(133,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(138,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(139,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(153,33): error C2039: "createInfantryman": не является членом "ArmyFactory".
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(83): message : см. объявление "ArmyFactory"

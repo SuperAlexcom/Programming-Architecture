@@ -1,0 +1,8 @@
+﻿  PIAPS1.cpp
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(130,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(135,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrcan\source\repos\PIAPS1\PIAPS1\PIAPS1.cpp(160): fatal error C1075: "{": не найдена несоответствующая лексема

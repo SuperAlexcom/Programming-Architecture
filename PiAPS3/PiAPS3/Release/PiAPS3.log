@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\mrcan\source\repos\PiAPS3\PiAPS3\Aeroplane.h(181,5): error C2664: "std::pair<uint,uint> std::make_pair<uint,uint>(_Ty1 &&,_Ty2 &&) noexcept": невозможно преобразовать аргумент 1 из "uint" в "_Ty1 &&"
+          with
+          [
+              _Ty1=uint,
+              _Ty2=uint
+          ]
+          and
+          [
+              _Ty1=uint
+          ]
+C:\Users\mrcan\source\repos\PiAPS3\PiAPS3\Aeroplane.h(182,8): message : Нельзя привязать левостороннее значение к ссылке на правостороннее значение
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(387,67): message : см. объявление "std::make_pair"
